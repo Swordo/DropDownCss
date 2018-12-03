@@ -1,0 +1,22 @@
+
+
+#main{
+    background-color:  white; 
+    width: 70%;
+    height: 60%;
+    margin-top: 5%;
+    border: 1px solid #c0c0c0;
+    padding: 3%;
+}
+a{
+    text-align:  center;
+    text-decoration: none; 
+    color: black;  
+}
+p{
+    color: #686666;
+}
+a:hover{
+    text-decoration: none;
+    color:rgb(168, 8, 88);
+}
